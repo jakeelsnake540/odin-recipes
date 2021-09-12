@@ -1,0 +1,2 @@
+this is my first odin project how ever I have already learned html and css on freecodeacadamy.org so this lesson came fairly easy to me.
+That being said I went through with the lesson any way and Im glad I did because I learned a few things that freecodeacadamy didnt touch on like making the files. accesing different wbepages with the a tag and more. so far I am really loving the style of learning with the odin project and I am definitly grateful for its existence!
